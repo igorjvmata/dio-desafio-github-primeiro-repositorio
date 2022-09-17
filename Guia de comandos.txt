@@ -1,0 +1,10 @@
+git init
+git config --global user.email "email"
+git config --global user.nickname "name"
+
+git clone "SSH"
+
+git add * 
+git status
+git commit -m "mensagem"
+git push origin main (master)
